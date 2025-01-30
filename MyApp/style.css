@@ -13,3 +13,8 @@ body {
     cursor: pointer;
     margin: 10px;
   }
+  
+  #fontButton {
+    margin-left: 10px;
+    background: #28a745; /* Green color */
+  }
